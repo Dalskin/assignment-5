@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spending Management SQL</string>
+    <string name="date_hint">MM/DD/YYYY</string>
+    <string name="moneyHint">$20.00</string>
+    <string name="Category_hint">Category</string>
+    <string name="enter_btn_text">Enter</string>
+    <string name="history">Transaction History</string>
+    <string name="col1Header">Date</string>
+    <string name="col2Header">Amount</string>
+    <string name="col3Header">Category</string>
+</resources>
